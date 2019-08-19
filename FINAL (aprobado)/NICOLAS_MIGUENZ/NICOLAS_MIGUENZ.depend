@@ -1,0 +1,65 @@
+# depslib dependency file v1.0
+1532607464 source:d:\final2\nicolas_miguenz\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+
+1531445496 d:\final2\nicolas_miguenz\arraylist.h
+
+1563486213 source:d:\final2\nicolas_miguenz\productos.c
+	"productos.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1563486880 d:\final2\nicolas_miguenz\productos.h
+
+1563492020 source:d:\final2\nicolas_miguenz\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"ArrayList.h"
+	"parser.h"
+	"envio.h"
+	"utn.h"
+
+1563490691 d:\final2\nicolas_miguenz\parser.h
+	"ArrayList.h"
+
+1531419524 d:\final2\nicolas_miguenz\utn.h
+
+1563487270 source:d:\final2\nicolas_miguenz\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"utn.h"
+
+1563490719 source:d:\final2\nicolas_miguenz\main.c
+	<stdio.h>
+	<stdlib.h>
+	"parser.h"
+	"ArrayList.h"
+	"envio.h"
+	"utn.h"
+	"funciones.h"
+
+1563487580 source:d:\final2\nicolas_miguenz\envio.c
+	"envio.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1563487580 d:\final2\nicolas_miguenz\envio.h
+
+1563490499 source:d:\final2\nicolas_miguenz\funciones.c
+	<stdlib.h>
+	<stdio.h>
+	"string.h"
+	"ArrayList.h"
+	"utn.h"
+	"envio.h"
+
+1563491937 d:\final2\nicolas_miguenz\funciones.h
+

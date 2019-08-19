@@ -1,0 +1,19 @@
+ArrayList* al_filter(ArrayList* this,int (pFunc)(void))
+{
+    int i;
+    void* pElement;
+    ArrayList* returnAux = NULL;
+    if(this != NULL && pFunc != NULL)
+    {
+        returnAux = al_newArrayList();
+        for(i=0; i<(this->size); i++)
+        {
+            pElement = al_get(this, i);
+            if(pFunc(pElement) == 1)
+            {
+                al_add(returnAux, pElement);
+            }
+        }
+    }
+    return returnAux;
+}

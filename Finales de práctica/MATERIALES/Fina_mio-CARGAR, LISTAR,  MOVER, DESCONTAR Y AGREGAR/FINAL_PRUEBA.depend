@@ -1,0 +1,58 @@
+# depslib dependency file v1.0
+1563387205 source:c:\users\nicol\onedrive\escritorio\cascara\final_prueba\deposito1.c
+	"deposito1.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1563392028 c:\users\nicol\onedrive\escritorio\cascara\final_prueba\deposito1.h
+
+1563408117 source:c:\users\nicol\onedrive\escritorio\cascara\final_prueba\main.c
+	<stdio.h>
+	<stdlib.h>
+	"parser.h"
+	"ArrayList.h"
+	"deposito1.h"
+	"utn.h"
+	"funciones.h"
+
+1532569545 c:\users\nicol\onedrive\escritorio\cascara\final_prueba\parser.h
+	<stdio.h>
+	<stdlib.h>
+	"ArrayList.h"
+
+1563390581 c:\users\nicol\onedrive\escritorio\cascara\final_prueba\arraylist.h
+
+1531419524 c:\users\nicol\onedrive\escritorio\cascara\final_prueba\utn.h
+
+1563408068 source:c:\users\nicol\onedrive\escritorio\cascara\final_prueba\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	"ArrayList.h"
+	"deposito1.h"
+	"utn.h"
+
+1563408145 c:\users\nicol\onedrive\escritorio\cascara\final_prueba\funciones.h
+	"ArrayList.h"
+
+1563390877 source:c:\users\nicol\onedrive\escritorio\cascara\final_prueba\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+
+1563392341 source:c:\users\nicol\onedrive\escritorio\cascara\final_prueba\parser.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+	"deposito1.h"
+
+1563391033 source:c:\users\nicol\onedrive\escritorio\cascara\final_prueba\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"utn.h"
+

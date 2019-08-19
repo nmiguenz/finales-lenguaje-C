@@ -1,0 +1,129 @@
+# depslib dependency file v1.0
+1530227136 source:/home/alumno/Escritorio/SEGUNDO_PARCIAL/Ejercicio2doParcial/ArrayList.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+
+1530225435 /home/alumno/Escritorio/SEGUNDO_PARCIAL/Ejercicio2doParcial/ArrayList.h
+
+1530227528 source:/home/alumno/Escritorio/SEGUNDO_PARCIAL/Ejercicio2doParcial/Empleado.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+	"Empleado.h"
+
+1530224093 /home/alumno/Escritorio/SEGUNDO_PARCIAL/Ejercicio2doParcial/Empleado.h
+
+1530227398 source:/home/alumno/Escritorio/SEGUNDO_PARCIAL/Ejercicio2doParcial/Parser.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+	"Empleado.h"
+
+1530227189 source:/home/alumno/Escritorio/SEGUNDO_PARCIAL/Ejercicio2doParcial/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Empleado.h"
+	"ArrayList.h"
+	"Parser.h"
+
+1530222297 /home/alumno/Escritorio/SEGUNDO_PARCIAL/Ejercicio2doParcial/Parser.h
+	"ArrayList.h"
+
+1530227725 source:/media/alumno/Mati/utn/SEGUNDO_PARCIAL/Ejercicio2doParcial/ArrayList.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+
+1530227775 /media/alumno/Mati/utn/SEGUNDO_PARCIAL/Ejercicio2doParcial/ArrayList.h
+
+1530227528 source:/media/alumno/Mati/utn/SEGUNDO_PARCIAL/Ejercicio2doParcial/Empleado.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+	"Empleado.h"
+
+1530224093 /media/alumno/Mati/utn/SEGUNDO_PARCIAL/Ejercicio2doParcial/Empleado.h
+
+1530227398 source:/media/alumno/Mati/utn/SEGUNDO_PARCIAL/Ejercicio2doParcial/Parser.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+	"Empleado.h"
+
+1530227620 source:/media/alumno/Mati/utn/SEGUNDO_PARCIAL/Ejercicio2doParcial/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Empleado.h"
+	"ArrayList.h"
+	"Parser.h"
+
+1530222297 /media/alumno/Mati/utn/SEGUNDO_PARCIAL/Ejercicio2doParcial/Parser.h
+	"ArrayList.h"
+
+1530839658 source:c:\users\luciano\desktop\luchoo\ejercicio2doparcial\empleado.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+	"Empleado.h"
+
+1530839664 c:\users\luciano\desktop\luchoo\ejercicio2doparcial\arraylist.h
+
+1530839658 c:\users\luciano\desktop\luchoo\ejercicio2doparcial\empleado.h
+
+1530839656 source:c:\users\luciano\desktop\luchoo\ejercicio2doparcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Empleado.h"
+	"ArrayList.h"
+	"Parser.h"
+
+1530839660 c:\users\luciano\desktop\luchoo\ejercicio2doparcial\parser.h
+	"ArrayList.h"
+
+1530839656 source:c:\users\luciano\desktop\luchoo\ejercicio2doparcial\parser.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+	"Empleado.h"
+
+1530825258 source:c:\users\luchodbr\desktop\luchoo\ejercicio2doparcial\empleado.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+	"Empleado.h"
+
+1563467647 c:\users\luchodbr\desktop\luchoo\ejercicio2doparcial\arraylist.h
+
+1530825258 c:\users\luchodbr\desktop\luchoo\ejercicio2doparcial\empleado.h
+
+1530825256 source:c:\users\luchodbr\desktop\luchoo\ejercicio2doparcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Empleado.h"
+	"ArrayList.h"
+	"Parser.h"
+
+1530825260 c:\users\luchodbr\desktop\luchoo\ejercicio2doparcial\parser.h
+	"ArrayList.h"
+
+1530825256 source:c:\users\luchodbr\desktop\luchoo\ejercicio2doparcial\parser.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+	"Empleado.h"
+
